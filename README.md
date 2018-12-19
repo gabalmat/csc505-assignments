@@ -15,8 +15,9 @@ an input parameter list (n, e, mat, s), where
 - n = number of vertices of G, 
 - e = number of undirected edges of G,
 - mat = an e x 3 matrix that defines the edges of G, 
-- s = the source vertex of Dijkstra’s algorithm. 
-Assume the vertices of G are numbered 1…n. In mat each row consists of three integers <u, v, weight>. 
+- s = the source vertex of Dijkstraâ€™s algorithm. 
+
+Assume the vertices of G are numbered 1â€¦n. In mat each row consists of three integers <u, v, weight>. 
 Here, u and v define the edge (u,v), and weight is the corresponding edge weight. The method returns
 an n x 2 matrix, where the ith row contains the path length and the usp value for the 
-shortest path between source and vertex i for i in {1, …n}.
+shortest path between source and vertex i for i in {1, â€¦n}.
