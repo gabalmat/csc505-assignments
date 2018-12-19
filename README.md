@@ -1,4 +1,4 @@
-# NCSU CSC 505 (Design and Analysis of Algorithms)
+﻿# NCSU CSC 505 (Design and Analysis of Algorithms)
 
 Programming assignments
 
@@ -7,7 +7,7 @@ Homework 3 - Solve the matrix chain multiplication problem using:
 - [memoization](src/org/csc505/homework3/h3p2_memoized_gabalmat.java)
 - [recursion](src/org/csc505/homework3/h3p2_recursive_gabalmat.java)
 
-Homework 4: Implement modification to Dijkstra's algorithm that runs asymptotically
+Homework 4 - Implement modification to Dijkstra's algorithm that runs asymptotically
 as fast as the original algorithm, and assigns a binary value *usp[u]* to every vertex *u* 
 in *G*, so that *usp[u]=1* if and only if there is a unique shortest path from *s* to *u*. 
 By definition *usp[s]=1*. [Dijkstra.java](src/org/csc505/homework4/Dijkstra.java) has a method: *Dijkstra_alg*. The method has 
