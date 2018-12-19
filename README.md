@@ -3,9 +3,9 @@
 Programming assignments
 
 Homework 3 - Solve the matrix chain multiplication problem using:
-[dynamic programming](src/org/csc505/homework3/h3p2_dp_gabalmat.java)
-[memoization](src/org/csc505/homework3/h3p2_memoized_gabalmat.java)
-[recursion](src/org/csc505/homework3/h3p2_recursive_gabalmat.java)
+- [dynamic programming](src/org/csc505/homework3/h3p2_dp_gabalmat.java)
+- [memoization](src/org/csc505/homework3/h3p2_memoized_gabalmat.java)
+- [recursion](src/org/csc505/homework3/h3p2_recursive_gabalmat.java)
 
 Homework 4: Implement modification to Diijkstra's algorithm that runs asymptotically
 as fast as the original algorithm, and assigns a binary value *usp[u]* to every vertex *u* 
